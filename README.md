@@ -34,7 +34,7 @@ This framework proposes essential infrastructure organized in three layers:
 
 ## Technical Implementations
 
-This repository contains reference implementations demonstrating how these infrastructure components can be realized using blockchain technology to create immutable, verifiable attribution records.
+This repository contains reference implementations demonstrating how these infrastructure components can be realized using SOTA technology to create immutable, verifiable attribution records.
 
 ## Contributing
 
